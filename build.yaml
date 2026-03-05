@@ -21,5 +21,7 @@
 include:
   - board: nrfmicro_13
     shield: cradio_left
+    snippet: nrf52840-nosd
   - board: nrfmicro_13
     shield: cradio_right
+    snippet: nrf52840-nosd
