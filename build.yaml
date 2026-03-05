@@ -19,9 +19,7 @@
 #
 ---
 include:
-  - board: rfmicro@1.3.0/nrf52840
+  - board: nrfmicro@1.3.0/nrf52840
     shield: cradio_left
-    snippet: nrf52840-nosd
-  - board: rfmicro@1.3.0/nrf52840
+  - board: nrfmicro@1.3.0/nrf52840
     shield: cradio_right
-    snippet: nrf52840-nosd
